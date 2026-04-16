@@ -68,7 +68,7 @@ export default function PrivacyPolicy() {
             <p>SL GPS Tracker collects the following information:</p>
             <SubSection title="Location Data">
               <p>
-                The app collects and processes your device's location data to
+                The app collects and processes your device&apos;s location data to
                 provide navigation, GPS tracking, route display, and waypoint
                 features.
               </p>
