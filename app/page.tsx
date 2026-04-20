@@ -46,7 +46,7 @@ export default function Home() {
 
           <div id="download" className="flex flex-col sm:flex-row gap-3 justify-center items-center">
             <a
-              href="#"
+              href="https://play.google.com/store/apps/details?id=com.isuruhet.sltracker"
               className="flex items-center gap-3 px-6 py-3.5 rounded-xl bg-[#00C853] text-black font-bold text-sm hover:bg-[#00E676] transition-colors"
             >
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
